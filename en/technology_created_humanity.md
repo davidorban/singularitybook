@@ -97,4 +97,4 @@ Since the information differences create these areas of limited knowledge, indiv
 
 ˆSam Harris: “Free Will” 
 
-* Unsustainability is unsustainable
+### Unsustainability is unsustainable
