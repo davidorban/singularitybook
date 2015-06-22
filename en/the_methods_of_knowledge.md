@@ -10,5 +10,10 @@ At the same time, a closed and secret system is also vulnerable to be isolated a
 
 Medieval alchemists who were obsessed by the goal of transforming lead into gold, were unlucky enough to believe that using mercury would help in this quest. Unfortunately mercury is poisonous. Any alchemist who learned this fact, did it on his own, and suffered the consequences of this knowledge. The organization in secret societies blocked the possibility of learning from each other’s mistakes, and and the alchemists were bound to repeat them.
 
+In today’s world still there is a lot of activity that is conducted similarly in secret. It is assumed that sharing it would weaken the position of those who compete for resources.
+
 ### Open science
+
+
+
 ### The evolution of science
