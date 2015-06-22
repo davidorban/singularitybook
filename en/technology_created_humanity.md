@@ -98,3 +98,15 @@ Since the information differences create these areas of limited knowledge, indiv
 ˆSam Harris: “Free Will” 
 
 ### Unsustainability is unsustainable
+
+The current capitalistic economic paradigm predicated on constant growth has been dominating for the past 200 years. Even before, resource exploration and allocation in feudal societies has allowed ignoring what today we call externalities of economic activities. This was possible while a given nation or civilization did not care about destroying an other competing one. Or under the assumption that depleting the ecosystems and exterminating dominant species of a given continent there would always be an other to discover and to start the process over with.
+
+Today it is evident that this behavior is not possible anymore. Advanced nations do not wage war against each other. They do not destroy or subjugate other populations. They do not, or should not, endanger ecosystems and their species through their economic activities. Very simply there are now new continents available to pillage.
+
+This implicitly means that we are not better people than before. We did not change our ways because we understood that there was a morally superior behavior to be adopted. Our mentality is fundamentally the same. The reason we are now considering alternatives is because the old way is not possible anymore.
+
+The externalities of our economic activities are all those consequences that are not reflected in the profit and loss considerations. It is up to society to look at various sectors and decide if it can allow this. Alternatively it can put in place regulations that surface the hidden costs, and let society as a whole explicitly absorb them, or force the enterprises active in the chain of production to deal with them instead.
+
+Unsustainable economic practices have large externalities and in a closed and globally connected world can not be allowed. Wether the depletion of ecological support systems, the waste of resources that could be used more efficiently or recycled, a complex society must turn towards sustainable practices in order to generate dynamic, but robust solutions.
+
+A civilization cannot be well-adapted without recognizing this need, and without acting on it with the appropriate tools of incentives and regulations.
