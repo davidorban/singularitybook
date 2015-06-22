@@ -14,6 +14,10 @@ In today’s world still there is a lot of activity that is conducted similarly 
 
 ### Open science
 
+The scientific revolution that Galilei started not only represented a clearer understanding of how theory and experiments needed to be related. It also paved the way for a profound shift in how knowledge and information was collected, checked, and spread. Without it being a necessary part of the scientific method itself, open collaboration allowed groups and individuals who took advantage of it, to more rapidly decide if a certain set of results was reliable.
 
+Open science is fundamentally superior to closed approaches of knowledge gathering. Collaboration among people who share the goals and passions of a given field is enhanced by a common language and tools. Publishing the results that one group achieves allows an other group to run experiments against the new knowledge to confirm or disprove them. Interdisciplinary collaboration is enhanced by the ease with which practitioners outside of the group can approach it, building bridges of understanding that overcome specializations.
+
+Today a fertile field of study made possible by the increasing digitalization of science and scientific publishing is that of meta-studies. Comparing and analyzing a large number of publications in a given field, it is possible to derive results not individually contained in any single one of them. Statistical tools reveal significant trends, and enhance the possibility of catching and eventually correcting methodological errors in the work previously published.
 
 ### The evolution of science
