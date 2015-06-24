@@ -1,9 +1,10 @@
 # Summary
 
+* [Introduction](README.md)
 * [Informazioni sul libro](readme_it.md)
 * [Introduzione](introduction_it.md)
 * [Intervista](interview_it.md)
-* [La tecnologia ha creato l'uomo](technology_created_humanity_it.md)
+* [La tecnologia ha creato l'uomo](technologycreated_humanity_it.md)
 * [I metodi della conoscenza](the_methods_of_knowledge_it.md)
 * [Cambiamento esponenziale](exponential_change_it.md)
 * [Intelligenza artificiale](artificial_intelligence_it.md)
