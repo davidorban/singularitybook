@@ -17,5 +17,5 @@
 * [Sei dei nostri?](will_you_join_us_it.md)
 * [Bibliografia essenziale](further_reading_it.md)
 * [Fonti online](online_sources_it.md)
-* [Indice analitico](analytical_index_it.md)
+* [Indice analitico](analytical_index_it.md) 
 
