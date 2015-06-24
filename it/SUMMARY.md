@@ -1,6 +1,7 @@
-# Tabella dei contenuti
+# Summary
 
-* [Informazioni sul libro](README_it.md)
+* [Introduction](README.md)
+* [Informazioni sul libro](readme_it.md)
 * [Introduzione](introduction_it.md)
 * [Intervista](interview_it.md)
 * [La tecnologia ha creato l'uomo](technology_created_humanity_it.md)
@@ -18,3 +19,4 @@
 * [Bibliografia essenziale](further_reading_it.md)
 * [Fonti online](online_sources_it.md)
 * [Indice analitico](analytical_index_it.md)
+
