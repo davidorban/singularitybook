@@ -1,6 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
 * [Informazioni sul libro](readme_it.md)
 * [Introduzione](introduction_it.md)
 * [Intervista](interview_it.md)
