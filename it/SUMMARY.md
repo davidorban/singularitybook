@@ -1,4 +1,4 @@
-# Summary
+# Tabella dei contenuti
 
 * [Informazioni sul libro](README_it.md)
 * [Introduzione](introduction_it.md)
