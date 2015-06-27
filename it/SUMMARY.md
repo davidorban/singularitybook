@@ -1,6 +1,6 @@
 # Summary
 
-* [Informazioni sul libro](readme.md)
+* [Informazioni sul libro](README.md)
 * [Introduzione](introduction_it.md)
 * [Intervista](interview_it.md)
 * [La tecnologia ha creato l’uomo](technologycreated_humanity_it.md)
