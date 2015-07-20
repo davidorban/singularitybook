@@ -29,15 +29,15 @@ Cryonics is the study and the practice of this, with companies already offering 
 
 Applying all the available treatments and progressive rejuvenation as available, a cryonic suspension policy can be seen as a bridge towards more radical options to be developed in the future. Policy is actually an appropriate term as there is at least one insurance brokerage offering a package that includes in its payout the coverage of a cryonic service for its policyholders.
 
-XXX Box
+| 0:0 |
 ### To be an onion
-
+| -- |
 We were sitting around the dinner table, my wife, three children an I. Starting from an other thread of the conversation, my oldest son confirmed that if happened that he ended up in an irreversible coma, a vegetative state, he wanted to be turned off, the machines disconnected. My youngest daughter chimed in that no, she didn’t want to be disconnected, but wanted to be kept on even as a vegetable. I could not refrain from asking: “That’s OK. But which vegetable do you want to be?” After thinking a bit she said “An onion, or a carrot”, and we went around the table confirming in turn what vegetable eventually we wanted to be if in a coma. 
 
 The choice of not being revived, of declining extreme and invasive medical procedures that may prolong life a bit but at a very low quality is a freedom that is spreading now. It is likely to embrace the concept further, generalizing into the right to choosing one’s moment to die. The reason for wanting to avoid to be powerless and unthinking and only kept alive by machines is altruistic: we want our relatives to be able to move on. If they are there with us indefinitely, they are also as good as dead, locked in a system that is hopeless and useless together with us. (I am not disparaging the efforts that are sometimes fruitful of dedicated relatives that are able to revive those who are not in an irreversible coma. And the medical diagnosis is often not clearcut, which contributes to make this topic especially complicated and emotionally fraught for those who make the decisions after the fact.)
 
 Cryonics, as a consequence, is for an individual to be able to voluntarily contract a service that is relatively simple and cost effective if compared to what a patient in deep coma needs, while unlocking a future for the relatives that is unencumbered by the presence of a person that can’t actively participate in it, at least for the time being.
-XXX End Box
+| 0:2 |
 
 ### Mind uploading
 Obviously the best efforts of science, health and medicine can’t still stop the proverbial bus. Accidents will still happen, and will interrupt the trajectory of any life sooner or later. In many of these cases that outcome will be such that the cryonic suspension emergency team won’t be able to get to the scene in time, or find remains that are not worth preserving. The solution for successful data recovery in the case of computers is a reliable backup procedure, and there are now teams of researchers working on the ways that the human brain, its neurons, synapses, and any other needed structure that gives rise to the mind could be imaged and preserved.
