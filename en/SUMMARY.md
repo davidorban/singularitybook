@@ -10,7 +10,6 @@
 * [Artificial General Intelligence](artificial_general_intelligence.md)
 * [The power of evolution](the_power_of_evolution.md)
 * [Human computer coevolution](human_computer_coevolution.md)
-* [The need for an engineering and science of morality](the_need_for_an_engineering_and_science_of_morality.md)
 * [What to do today?](what_to_do_today.md)
 * [What to do tomorrow?](what_to_do_tomorrow.md)
 * [What to do the day after tomorrow](what_to_do_the_day_after_tomorrow.md)
