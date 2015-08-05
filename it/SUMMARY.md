@@ -1,7 +1,7 @@
 # Summary
 
 * [Informazioni sul libro](README.md)
-* [Introduzione](introduction_it.md)
+* [Introduzione](introductionit.md)
 * [Intervista](interview_it.md)
 * [La tecnologia ha creato l’uomo](technologycreated_humanity_it.md)
 * [I metodi della conoscenza](themethods_of_knowledge_it.md)
