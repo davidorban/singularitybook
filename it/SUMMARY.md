@@ -4,7 +4,7 @@
 * [Introduzione](introduction_it.md)
 * [Intervista](interview_it.md)
 * [La tecnologia ha creato l’uomo](technologycreated_humanity_it.md)
-* [I metodi della conoscenza](the_methods_of_knowledge_it.md)
+* [I metodi della conoscenza](themethods_of_knowledge_it.md)
 * [Cambiamento esponenziale](exponential_change_it.md)
 * [Intelligenza artificiale](artificial_intelligence_it.md)
 * [Intelligenza artificiale generale](artificial_general_intelligence_it.md)
@@ -18,3 +18,4 @@
 * [Bibliografia essenziale](further_reading_it.md)
 * [Fonti online](online_sources_it.md)
 * [Indice analitico](analytical_index_it.md)
+
