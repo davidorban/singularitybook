@@ -7,7 +7,7 @@
 * [I metodi della conoscenza](themethods_of_knowledge_it.md)
 * [Cambiamento esponenziale](exponentialchange_it.md)
 * [Intelligenza artificiale](artificialintelligence_it.md)
-* [Intelligenza artificiale generale](artificial_general_intelligence_it.md)
+* [Intelligenza artificiale generale](artificialgeneral_intelligence_it.md)
 * [La potenza dell’evoluzione](the_power_of_evolution_it.md)
 * [Coevoluzione uomo-macchina](human_computer_coevolution_it.md)
 * [La necessità di una scienza e di un’ingegneria della morale](the_need_for_an_engineering_and_science_of_morality_it.md)
