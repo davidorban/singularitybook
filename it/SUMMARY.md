@@ -6,7 +6,7 @@
 * [La tecnologia ha creato l’uomo](technologycreated_humanity_it.md)
 * [I metodi della conoscenza](themethods_of_knowledge_it.md)
 * [Cambiamento esponenziale](exponentialchange_it.md)
-* [Intelligenza artificiale](artificial_intelligence_it.md)
+* [Intelligenza artificiale](artificialintelligence_it.md)
 * [Intelligenza artificiale generale](artificial_general_intelligence_it.md)
 * [La potenza dell’evoluzione](the_power_of_evolution_it.md)
 * [Coevoluzione uomo-macchina](human_computer_coevolution_it.md)
