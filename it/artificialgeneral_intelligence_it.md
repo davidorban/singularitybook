@@ -1,4 +1,4 @@
-# Intelligenza generale artificiale
+# Intelligenza artificiale generale
 L'ipotesi di questo libro è che sia effettivamente possibile costruire ciò che serve per fare emergere un comportamento capace di analizzare e risolvere un insieme arbitrario di problemi: costruire un hardware sufficientemente potente in termini di velocità di esecuzione, capacità di archiviazione e accesso alla memoria, maneggevole, con esigenze di alimentazione ridotte e realizzabile con le risorse che abbiamo o avremo a disposizione quando sapremo come costruirlo. E creare il software, l'insieme di programmi da eseguire con quell'hardware, capace di acquisire i dati per riconoscere il problema in esame, accedere e dinamicamente utilizzare la base di conoscenze per ricavare possibile approcci per affrontare il problema, e che sia sufficientemente flessibile per combinare questi approcci in nuovi modi, o per creare approcci completamente nuovi, al fine di risolvere il problema in modo ottimale con le risorse e i dati disponibili.
 
 ## Il test di Turing diventa discutibile
