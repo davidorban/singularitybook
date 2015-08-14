@@ -10,7 +10,6 @@
 * [Intelligenza artificiale generale](artificialgeneral_intelligence_it.md)
 * [La potenza dell’evoluzione](thepower_of_evolution_it.md)
 * [Coevoluzione uomo-macchina](humancomputer_coevolution_it.md)
-* [La necessità di una scienza e di un’ingegneria della morale](the_need_for_an_engineering_and_science_of_morality_it.md)
 * [Cosa fare oggi?](whatto_do_today_it.md)
 * [Cosa fare domani?](whatto_do_tomorrow_it.md)
 * [Cosa fare dopodomani?](whatto_do_the_day_after_tomorrow_it.md)
