@@ -93,9 +93,7 @@ When the shift happens, and how it manifests itself, depends on the tensions tha
 
 This is what literally happened with the Berlin wall, which was metaphorically and physically shielding the planned economies of the USSR and of Eastern Europe from those of the West. When the Wall fell, the effects of allowing market economies to rapidly penetrate brought first economical and then swift political change which could not be contained or controlled even by the very people who initiated and allowed them, like then Secretary General of the Russian Communist Party, Mikhail Gorbachev.
 
-Since the information differences create these areas of limited knowledge, individuals within those areas often don’t even realize that they are living in a maladapted society. They can be taken by surprise when the weaknesses and the brittleness of the civilization is made evident by the abrupt changes. Even political experts and historians are better at explaining rapid civilizational changes after the fact than not forecasting them. This makes it hard to prepare for the changes, and to reduce the amount of suffering that the period of uncertainty creates. 
-
-ˆSam Harris: “Free Will” 
+Since the information differences create these areas of limited knowledge, individuals within those areas often don’t even realize that they are living in a maladapted society. They can be taken by surprise when the weaknesses and the brittleness of the civilization is made evident by the abrupt changes. Even political experts and historians are better at explaining rapid civilizational changes after the fact than not forecasting them. This makes it hard to prepare for the changes, and to reduce the amount of suffering that the period of uncertainty creates.
 
 ### Unsustainability is unsustainable
 
