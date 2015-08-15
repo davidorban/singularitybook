@@ -26,7 +26,7 @@ If dinosaurs had had telescopes, could they have avoided extinction? They would 
 
 In concrete terms, the difference between us and the dinosaurs, of course, is that they didn’t have telescopes. Metaphorically, however, they did not possess the tools of reason and science to enable them to deal with the dangers of extinction, to see and perhaps deviate the asteroid, or, in our modern times, the dangers of pandemics, climate change, extreme conflict and so on.
 
-When the NASA budget for radio telescopes that catalogue and monitor objects in space whose orbit could bring them into collision with our planet was cut, we turned ourselves into dinosaurs, voluntarily blind to the threats to our species. Microsoft co-founder Paul Alle had to step in, using his own resources to finance the re-activation and management of these specialized tools, and give us a chance to catalogue the asteroids and perhaps prevent a future impact from wiping us out.
+When the NASA budget for radio telescopes that catalog and monitor objects in space whose orbit could bring them into collision with our planet was cut, we turned ourselves into dinosaurs, voluntarily blind to the threats to our species. Microsoft co-founder Paul Alle had to step in, using his own resources to finance the re-activation and management of these specialized tools, and give us a chance to catalog the asteroids and perhaps prevent a future impact from wiping us out.
 
 Generally speaking, it seems fair to say there are no alternatives to the tools of reason and science to deal with our problems. Even when we put them to the best possible use, we have no guarantees. Insurmountable problems exist. But if we want to have a chance of resolving them, we simply have to identify the most appropriate scientific approach, the most suitable type of solution (for example, a gravitational solution rather than a Hollywood-style bomb). Burying our heads in the sand is not the answer.
 
@@ -66,9 +66,7 @@ The precautionary principle dictates that before a given solution is adopted, it
 
 Of course in an ideal world regulators would only seek to establish the best course of action for the public good, rather than implementing self-propagating bureaucracies. And in an ideal world dominant players in a given market would not use their power to stop newcomers and diminish the dangers of unknown competitive factors, distorting the rules, and unduly influencing the process. Yes, we are not living in an ideal world.
 
-The precautionary principle, originally proposed by Max More[ˆproactionary], takes into account the opportunity cost of inaction, and the costs of regulation itself, in deriving a balance that is more future oriented. If we look at the future generations, and the benefit they derive from our actions, delaying the implementation of a new technology can have very large consequences.
-
-[ˆproactionary]: http://www.maxmore.com/proactionary.html
+The precautionary principle, originally proposed by Max More, takes into account the opportunity cost of inaction, and the costs of regulation itself, in deriving a balance that is more future oriented. If we look at the future generations, and the benefit they derive from our actions, delaying the implementation of a new technology can have very large consequences.
 
 The freedom to experiment, and the opportunity for individuals to gain knowledge outside of the officially sanctioned paths of research, objectivity, transparency and other components of the proactionary principle make it a useful tool to design novel action.
 
