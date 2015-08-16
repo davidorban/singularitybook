@@ -4,7 +4,7 @@
 
 Tutti i fenomeni sono dinamici ma si tende ad analizzarli e formalizzarli attraverso un'astrazione statica, che è la rappresentazione più distante possibile della realtà. Come è dimostrato dagli avvicendamenti dei metodi scientifici, la realtà non è sempre facilmente decifrabile. Né ci appare in bell'ordine, pronta per essere colta dal nostro senso comune. Spesso le nostre intuizioni sulle norme che disciplinano i fenomeni naturali si rivelano sbagliate. Questo può accadere con una serie di esperimenti che, una volta comprese le leggi fisiche soggiacenti ai fenomeni, chiunque può condurre. A quel punto, con spiegazioni accessibili che possono essere illustrate con immediatezza, non ci sono scuse per ignorare la natura della realtà. 
 
-Un semplice esempio di questo è la prima legge di Newton, secondo la quale "tutti gli oggetti mantengono il loro stato di moto in assenza di una forza esterna". La nostra esperienza quotidiana è che un'automobile in movimento a un certo punto si ferma se non si preme il pedale dell'acceleratore. Ma ora che abbiamo una chiara comprensione del ruolo dell'attrito, sappiamo che la decelerazione è causata dal motore, il terreno e la massa d'aria di fronte alla vettura. Se eliminassimo tutte le fonti di attrito, il moto del veicolo proseguirebbe per sempre.
+Un semplice esempio di questo è la prima legge di Newton: "Tutti gli oggetti mantengono il loro stato di moto in assenza di una forza esterna". La nostra esperienza quotidiana è che un'automobile in movimento a un certo punto si ferma se non si preme il pedale dell'acceleratore. Ma ora che abbiamo una chiara comprensione del ruolo dell'attrito, sappiamo che la decelerazione è causata dal motore, il terreno e la massa d'aria di fronte alla vettura. Se eliminassimo tutte le fonti di attrito, il moto del veicolo proseguirebbe per sempre.
 
 Le conseguenze dei cambiamenti dinamici sono intorno a noi, nei flussi e riflussi dell'acqua, dei fiumi, degli oceani e della pioggia. Nella crescita della vegetazione, degli alberi e delle foreste, o nell'avanzamento dei deserti e nei cambiamenti delle stagioni. Ma anche se siamo esperti di cambiamenti dinamici, la nostra intuizione può fuorviarci quando si tratta della potenza bruta che soggiace alla loro natura matematica astratta, libera e svincolata dai limiti di un ambiente fisico naturale.
 
@@ -14,7 +14,7 @@ Il cambiamento esponenziale è un ambiente estremamente dinamico, capace sempre 
 
 L'esempio più semplice di cambiamento esponenziale è il raddoppio della quantità in un dato periodo di tempo. Se il punto di partenza è 1, all'inizio questo tipo di cambiamento può sembrare innocuo o addirittura deludente.
 
-XXX Esempio di imperatore persiano preso dal libro di illustrazioni ungherese?
+![Raddoppio dei chicchi di riso su una scacchiera](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Wheat_Chessboard_with_line.svg/2000px-Wheat_Chessboard_with_line.svg.png)
 
 1, 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024, 2048, 4096... è una sequenza familiare a chiunque sia anche solo minimamente interessato ai numeri. Magari da bambino la ripetevate a mente, come una filastrocca.
 
