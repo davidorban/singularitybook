@@ -3,7 +3,7 @@
 ### Dynamic systems
 All phenomena are dynamic and while we tend to try to analyze and formalize them through an opposite process, it is the static abstraction that is the farther representation of the reality. Of course, as the struggles in the evolution of the methods of science have shown, reality is not always readily decipherable. Nor it is conveniently laid out in front of us in intuitive packages conforming to our common sense. Many of our intuitions about the rules governing natural phenomena turn out to be wrong. This can happen with a series of experiments that, once the physical laws behind the phenomena are well understood, anybody can carry out. At that point, with accessible explanations that can be illustrated with immediacy, there is no excuse for being ignorant about the nature of reality. 
 
-A simple example of this is Newton’s first law that says that XXX “all objects maintain their state of motion in absence of an external force”. Our everyday experience is that a car put in motion will actually stop, if you don’t push on the gas pedal. But now we have a clear understanding of the role of attrition, and that the deceleration is due to it from the engine, the terrain, and the air in front of the car. Taking away all sources of attrition, the car will go on forever.
+A simple example of this is Newton’s first law that says: “All objects maintain their state of motion in absence of an external force”. Our everyday experience is that a car put in motion will actually stop, if you don’t push on the gas pedal. But now we have a clear understanding of the role of attrition, and that the deceleration is due to it from the engine, the terrain, and the air in front of the car. Taking away all sources of attrition, the car will go on forever.
 
 The consequences of dynamic change are all around us, in the ebbs and flows of water, rivers, oceans, rain. In the growth of vegetation, trees, forests, or the advancing of deserts, the changes of seasons. But even if we have plenty of experience with dynamic change, our intuition can be more misleading than ever, with respect of the raw power behind its abstract mathematical nature, unencumbered and unrestrained by the constraints of a natural, physical environment.
 
@@ -12,7 +12,7 @@ Exponential change is such a dynamic environment. We can prepare for it, but its
 ### Meaningful sequences
 The simplest examples of exponential change, the doubling of a quantity, for example, in a certain amount of time, if the starting point is the unit of 1, can look fairly harmless or even disappointing at the beginning.
 
-XXX Example of Persian emperor from Hungarian book illustration?
+![Doubling of grains of rice on a chess board](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Wheat_Chessboard_with_line.svg/2000px-Wheat_Chessboard_with_line.svg.png)
 
 1, 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024, 2048, 4096, … is a sequence familiar to anybody who has had any interest at all in numbers. Rattling of the sequence in your head could have been a harmless childhood exercise.
 
