@@ -89,7 +89,7 @@ Se saltate nell'onda troppo presto i detrattori avranno vita facile nello smonta
 
 Dagli scanner piani al riconoscimento ottico dei caratteri, dalla sintesi musicale alla sintesi vocale, ai sistemi palmari per i ciechi, tutte le invenzioni di Kurzweil sfruttano una comprensione profonda di quello che possiamo definire "il giusto tempismo". Sapere in quale momento accelerare le ricerche e lo sviluppo in modo che quando i sistemi hardware di supporto saranno disponibili a un prezzo accettabile e con il giusto livello di integrazione, anche l'interfaccia utente, i sistemi di sviluppo e l'intero ecosistema di supporto saranno pronti.
 
-Presso il Santa Fe Institute, sulla base delle ricerche condotte da Bela XXX esiste un database completo di fenomeni esponenziali che chiunque può studiare ed eventualmente ampliare.
+Presso il Santa Fe Institute, sulla base delle ricerche condotte da Bela Nagy esiste un database completo di fenomeni esponenziali che chiunque può studiare ed eventualmente ampliare.
 
 Kurzweil ha compreso che con i sistemi interconnessi e intercomunicanti della conoscenza umana, che non crescono in modo isolato ma si rafforzano a vicenda, gli esponenziali alimentano gli esponenziali. Ha chiamato l'effetto risultante la Legge dei ritorni acceleranti. Questa legge teorizza l'esatto contrario di quanto espresso dalla saggezza acquisita dell'economia classica - la Legge dei ritorni diminuenti – in base alla quale si presume che per raggiungere un determinato obiettivo economico c'è bisogno di immissioni di capitale progressivamente maggiori.
 
