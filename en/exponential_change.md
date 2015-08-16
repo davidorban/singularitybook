@@ -22,7 +22,7 @@ Why are these three sequences interesting and why are they representative of the
 
 Imagine that you are looking at the world around you and, trying to decipher it, predict what a given phenomenon will amount to, you collect data about it. This collection will not be as neat and clear as the sequences above. There will be a lot of noise in it. Errors of measure, mistakes made during the process or the planning of the measurements, other phenomena intruding and confounding your attempts to a clear understanding, and so on. 
 
-XXX wiggly chart with noise XXX. 
+![Trend lines on a noisy signal](https://upload.wikimedia.org/wikipedia/commons/7/77/Random-data-plus-trend-r2.png)
 
 The noise of a natural environment where, before even being able to clearly train your ears to it, you want to discern a pattern that is possibly new, something that nobody else tried to listen to before.
 
