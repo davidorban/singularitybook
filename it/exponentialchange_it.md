@@ -24,7 +24,7 @@ Perché questi tre sequenze sono rappresentative della natura del cambiamento es
 
 Immaginatevi mentre state cercando di decifrare il mondo attorno a voi e di prevedere la quantità di un dato fenomeno, motivo per il quale state raccogliendo i dati. Una raccolta che non sarà chiara e precisa come le sequenze precedenti. Sarà molto disturbata dalla presenza del rumore generato dagli errori di misura, gli errori commessi durante il processo, la pianificazione delle misure e altri fenomeni che confonderanno i vostri tentativi di giungere a una chiara comprensione. 
 
-XXX Grafico ondulato con rumore. 
+![Linee di tendenza su segnale rumoroso](https://upload.wikimedia.org/wikipedia/commons/7/77/Random-data-plus-trend-r2.png)
 
 Il rumore di un ambiente naturale dove, prima ancora di adattare l’udito, volete individuare un modello nuovo, qualcosa che nessun altro prima di voi abbia cercato di ascoltare.
 
