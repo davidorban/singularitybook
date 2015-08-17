@@ -82,7 +82,7 @@ Jump on the wave too soon, and those who say otherwise will have an easy time de
 
 From flat bed scanners to optical character recognition, from musical synthesis to speech synthesis, or handheld systems for the blind, all of Kurzweil’s inventions take advantage of a keen understanding of the right timing. When to accelerate research and development, so that by the time supporting hardware systems are available at the right price and the right level of integration, all the other components of software, user interface, development systems, and the entire supporting ecosystem is ready as well.
 
-At the Santa Fe Institute based on research by Bela XXX there is a full database of exponential phenomena that is accessible to be studied and expanded upon further.
+At the Santa Fe Institute based on research by Bela Nagy there is a full database of exponential phenomena that is accessible to be studied and expanded upon further.
 
 Kurzweil also recognized that with the interconnected and intercommunicating systems of human knowledge that do not grow in isolation but reinforce each other, there are exponentials feeding on exponentials. He called the resulting effect the Law Of Accelerating Returns. This is contrary to the acquired wisdom of classical economics where it is assumed that in order to achieve a given increase of economic of output there needs to be a progressively higher amount of available input of capital, called the Law of Diminishing Returns XXX.
 
